@@ -13,3 +13,14 @@ De code in de map **design** gebruiken we in de views van ons Laravel project. D
 * De assets (stylesheet, images, fonts, javascript e.d.) te kopiëren naar de public map in ons Laravel project  
 * Steeds voor iedere view in de bestanden hier te duiken en de stukken HTML te kopiëren naar de view.
 
+## UI 
+### Startpagina
+![Startpagina van het forum](homescreen.png)  
+  
+### Threadpagina
+Toont alle topics in de betreffende thread  
+![Threadpagina](threadscreen.png)  
+  
+### Topicpagina
+Toont alle replies van een topic  
+![Topicpagina](topicscreen.png)  
